@@ -56,3 +56,9 @@ const katie = {
 *Feito com 💗*
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaterineLima&bg_color=fff0f5&color=e75480&line=FF85C1&point=FF6EB4&area=true&hide_border=false&border_color=FFB6C1" width="100%"/>
+
+</div>

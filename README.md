@@ -20,13 +20,9 @@
 
 ```javascript
 const katie = {
-  nome:        "Katie 💖",
-  pronomes:    "ela/dela",
+  nome:        "Katie",
   localizacao: "Brasil 🇧🇷",
-  fase:        "Iniciante na programação 🌱",
-  paixoes:     ["codar", "aprender coisas novas", "rosa 💗"],
-  objetivo:    "Transformar café em código ☕ → 💻",
-  humor:       "Sempre no modo: tentando entender o erro 😅"
+  fase:        "Iniciante na programação 🌱"
 };
 ```
 
@@ -38,9 +34,6 @@ const katie = {
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-FF6EB4?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-FF85C1?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=555" />
 <img src="https://img.shields.io/badge/Python-FF9EC4?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-FF6EB4?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-FF85C1?style=for-the-badge&logo=github&logoColor=white" />
@@ -51,40 +44,7 @@ const katie = {
 
 <div align="center">
 
-### 📊 Minhas Estatísticas
-
-<br>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaterineLima&show_icons=true&bg_color=fff0f5&title_color=e75480&icon_color=FF85C1&text_color=c9587a&border_color=FFB6C1&border_radius=15" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaterineLima&layout=compact&bg_color=fff0f5&title_color=e75480&text_color=c9587a&border_color=FFB6C1&border_radius=15" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌷 Minha Jornada
-
-</div>
-
-```
-🌱  Fase 1: "O que é um terminal?" ......... ✅ Concluída!
-💡  Fase 2: Hello, World! .................. ✅ Concluída!
-🎨  Fase 3: Deixando tudo bonitinho ........ 🔄 Em andamento...
-🚀  Fase 4: Primeiro projeto completo ...... 🔜 Em breve!
-✨  Fase 5: Dev incrível ................... 💭 Sonhando...
-```
-
----
-
-<div align="center">
-
-### 💌 Frase do dia
-
-> *"Toda especialista foi um dia iniciante."* 🌸
-
+### ❝ᦸ ღ ᦸ ᙬ💌ᙥ ᦸ ღ Ꮱ❞
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=KaterineLima&label=visitas+ao+perfil&color=FF85C1&style=flat" />
@@ -97,6 +57,6 @@ const katie = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f093fb,f5576c,ff9a9e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Feito com 💗 e muito café ☕*
+*Feito com 💗*
 
 </div>

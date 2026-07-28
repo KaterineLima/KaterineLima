@@ -4,33 +4,10 @@
 
 </div>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=4000&pause=1000&color=e7c6f6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+mundo!+%F0%9F%8C%B8;Aprendendo+a+programar+com+amor+%F0%9F%92%97;Cada+linha+de+c%C3%B3digo+%C3%A9+uma+conquista+%E2%9C%A8;Katie+est%C3%A1+online!+%F0%9F%92%BB)
-
-</div>
-
-<div align="center">
-
-### 🌸 Sobre mim
-
-</div>
-
-```javascript
-const katie = {
-  nome:        "Katie",
-  localizacao: "Brasil 🇧🇷",
-  fase:        "Iniciante na programação 🌱"
-};
-```
-<div align="center">
-
-### ❝ᦸ ღ ᦸ ᙬ💌ᙥ ᦸ ღ Ꮱ❞
 <br>
-
 <div align="center">
 
-### 💻 Estou aprendendo
+### Aprendendo
 
 <img src="https://img.shields.io/badge/Python-FF9EC4?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-FF6EB4?style=for-the-badge&logo=git&logoColor=white" />
